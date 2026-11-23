@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Un numero binario de 4 entradas, tenemos una salida a 7 segmentos
 
 ## How to test
 
-Explain how to use your project
+Selecciona una combinación binaria en los 4 pines de entrada (por ejemplo, mediante interruptores o señales digitales) y verifica en la salida que se enciendan los segmentos adecuados para mostrar el dígito equivalente.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Interruptores (DIP switch) de 4 posiciones para las entradas.
+Display de 7 segmentos con sus respectivas resistencias limitadoras de corriente.
